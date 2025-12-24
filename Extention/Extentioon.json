@@ -2,11 +2,13 @@
   {
     "nama": "DoxXel",
     "description": "Extention DoxXel For Tweaking Game",
+    "version": "1.0.0",
     "link": ""
   },
   {
     "nama": "GxNoice",
     "description": "Extention DoxXel Network Optimizer",
+    "version": "1.0.0",
     "link": ""
   }
 ]
