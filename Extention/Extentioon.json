@@ -4,7 +4,14 @@
     "nama": "DoxXel",
     "description": "Extention DoxXel For Tweaking Game",
     "version": "1.0.0",
-    "link": "https://raw.githubusercontent.com/Reiii3/DoxXel-Extention/refs/heads/main/Extention/Extention-Package/DoxXel.zip"
+    "link": ""
+  },
+  {
+    "id": "NovaAe",
+    "nama": "NovaAethernium",
+    "description": "Extention DoxXel For GPU Tweak Experience",
+    "version": "1.0.0-U",
+    "link": "https://raw.githubusercontent.com/Reiii3/DoxXel-Extention/refs/heads/main/Extention/Extention-Package/NovaAethernium.zip"
   },
   {
     "id": "GxNn",
